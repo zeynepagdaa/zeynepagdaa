@@ -1,10 +1,14 @@
 ## Hi there 👋
 
-![Zeynep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeynepagdaa&show_icons=true&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=zeynepagdaa&show_icons=true&theme=tokyonight" alt="Zeynep's GitHub Stats" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepagdaa&layout=compact&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepagdaa&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zeynepagdaa&theme=tokyonight)
-
-
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeynepagdaa&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
